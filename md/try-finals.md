@@ -11,7 +11,7 @@ SELECT DISTINCT siswa.nama_siswa,
 siswa.alamat_siswa
 ```
 
-Bertujuan untuk mengembalikan nilai yang unik dari kolom `nama_siswa` dan `alamat_siswa` dari table nama_siswa.
+Bertujuan untuk mengembalikan nilai yang unik dari kolom `nama_siswa` dan `alamat_siswa` dari table `siswa`.
 
 ### Soal 2
 
